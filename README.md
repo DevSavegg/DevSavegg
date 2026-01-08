@@ -60,8 +60,8 @@ I am a programmer with over **10 years of experience**, specializing in the Robl
 ## Development Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevSavegg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSavegg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSavegg&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSavegg&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" height="180" alt="languages graph" />
 </div>
 
 <br>
